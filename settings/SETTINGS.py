@@ -2,7 +2,7 @@ URL_USD = 'https://banki24.by/minsk/kurs/usd'
 URL_EUR = 'https://banki24.by/minsk/kurs/eur'
 URL_RUB = 'https://banki24.by/minsk/kurs/rub'
 URL_UAH = 'https://banki24.by/minsk/kurs/uah'
-TOKEN = '1125024174:AAHNZzsrY6wPYdf-4UHRZTpDQq6lbNaoPIg'
+TOKEN = 'TOKEN'
 
 BUTTON_GET_ALL_LIST = 'Вывести весь список банков'
 BUTTON_BEST_BUY_VALUE = 'Вывести лучший курс для покупки'
